@@ -1,0 +1,276 @@
+Estudio de Movilidad Ciclista 2018: Conteo ciclista. Descripción de variables,,,,
+,,,,
+(1) Corresponde a la pregunta textual del instrumento de captación.,,,,
+(2) Código simbólico fácil de interpretar y de recordar.,,,,
+(3) Características del campo.,,,,
+"(4) Símbolos convencionales, ya sea alfabético, numérico o iconográfico, asignados para facilitar la interpretación de una representación a otra.",,,,
+(5) Descripción de las opciones de respuesta de cada pregunta del instrumento de captación.,,,,
+,,,,
+,,,,
+LLAVE,,,,
+Pregunta,Nemónico,Tipo,Códigos Válidos,Concepto
+(1),(2),(3),(4),(5)
+ID unico,ID_UNICO,Numérico,1.3207,
+Folio,FOLIO,Numérico,1..90,
+Punto,PUNTO,Numérico,1.240,
+Calle de levantamiento,CALLE_LEV,,,
+Referencia 1,CALLE_1,,,
+Referencia 2,CALLE_2,,,
+Resultado,RESUL,,,
+,,,,
+Filtro,,,,
+Pregunta,Nemónico,Tipo,Códigos Válidos,Concepto
+(1),(2),(3),(4),(5)
+F1. ¿Cuántos años cumplidos tiene?,F1,Numérico,12.97,Años cumplidos
+,,,98,No sabe 
+,,,99,No contestó
+,,,,
+SECCIÓN 1. Origen y destino del viaje en bicicleta,,,,
+Pregunta,Nemónico,Tipo,Códigos Válidos,Concepto
+(1),(2),(3),(4),(5)
+1. ¿De qué lugar viene usted?,P1,Numérico,1,Hogar
+,,,2,Trabajo
+,,,3,Escuela
+,,,4,"Centro comercial, tienda, mercado"
+,,,5,Otra vivienda
+,,,6,"Restaurante, bar, cafetería"
+,,,7,Otro
+,,,98,No sabe
+,,,99,No sabe
+,,,,
+"2. Y, digame por favor, ¿En qué estado, delegación y colonia se ubica su…",,,,
+Delegacion / Municipio,MUNORI,Numérico,,Municipio  o delegación Clave INEGI
+Colonia,P2_COL,,,Entidad
+Referencia 1:,P2_REF1,,,No especificado 
+Referencia 2: ,P2_REF2,,,Distrito 
+,,,,
+"3. ¿A dónde se dirige en este momento, dígame por favor el lugar al que va en este momento, aunque vaya a hacer varias paradas",P3,Numérico,1,Hogar
+,,,2,Trabajo
+,,,3,Escuela
+,,,4,"Centro comercial, tienda, mercado"
+,,,5,Otra vivienda
+,,,6,"Restaurante, bar, cafetería"
+,,,7,Otro
+,,,98,No sabe
+,,,99,No sabe
+,,,,
+"4. ¿En qué estado, delegación y colonia se ubica su…",,,,
+Delegacion / Municipio,MUNDES,Numérico,,Municipio  o delegación Clave INEGI
+Colonia,P4_COL,,,Entidad
+Referencia 1:,P4_REF1,,,No especificado 
+Referencia 2: ,P4_REF2,,,Distrito 
+,,,,
+5. En el lugar a donde llegará ¿En dónde va a estacionar la bicicleta?,P5,Numérico,1,Biciestacionamiento al aire libre
+,,,2,Biciestacionamiento cubierto
+,,,3,En un estacionamiento junto con autos
+,,,4,"En un poste, reja o mueble urbano"
+,,,5,La voy a guardar dentro del edificio al que voy por que no hay estacionamientos
+,,,6,"La dejaré en una estación por que es rentada (ecobici, mobike, vbike)"
+,,,8,No sabe
+,,,9,No contestó
+,,,,
+6. ¿Cuál es el motivo de su viaje?,P6,Numérico,1,Ir al trabajo
+,,,2,Regreso a casa
+,,,3,Ir a estudiar
+,,,4,Hacer compras
+,,,5,Llevar o recoger a alguien
+,,,6,Recreación
+,,,7,Ir a comer
+,,,8,Relacionado con el trabajo
+,,,9,Trámite
+,,,10,Ir de visita
+,,,98,No sabe 
+,,,99,No contestó
+,,,,
+7.¿A qué hora salió usted de…,P7_HR,Numérico,00..23,Horas
+,,,99,No sabe
+,P7_MIN,Numérico,00..59,Minutos
+,,,99,No sabe
+8. ¿A qué hora llegará a…,P8_HR,Numérico,00..23,Horas
+,,,99,No sabe
+,P8_MIN,Numérico,00..59,Minutos
+,,,99,No sabe
+,,,,
+9. ¿Durante este viaje hizo paradas intermedias menores a 10 minutos?,P9,Numérico,1,Si
+,,,2,No
+,,,99,No contesto
+,P9_1,,01..30,Paradas
+,,,,
+10. ¿Las paradas intermedias fueron para…,P10,Numérico,1,Llevar o recoger a alguien?
+,,,2,Hacer compras?
+,,,3,Comer o beber algo?
+,,,99,No contestó 
+,,,,
+11. ¿Durante este viaje hará paradas intermedias menores a 10 minutos?,P11,Numérico,1,Si
+,,,2,No
+,,,3,No contesto
+,P11_1,,01..30,Paradas
+,,,,
+12. ¿Las paradas intermedias fueron para…,P12,Numérico,1,Llevar o recoger a alguien?
+,,,2,Hacer compras?
+,,,3,Comer o beber algo?
+,,,99,No contestó 
+,,,,
+13. Para regresa donde inició este viaje ¿Utilizarás la bicicleta?,P13,Numérico,1,Sí
+,,,2,No
+,,,98,No sabe
+,,,99,No contestó
+,,,,
+,,,,
+SECCIÓN 2. Percepción del uso de la bicicleta,,,,
+Pregunta,Nemónico,Tipo,Códigos Válidos,Concepto
+(1),(2),(3),(4),(5)
+14. ¿Qué tanto ha influido los siguientes elementos para decidir usar la bicicleta como medio de transporte?,,,,
+Que haya biciestacionamientos,P14_1,Numérico,1,Mucho
+Que haya ciclovías,P14_2,Numérico,2,Algo
+La existencia de bicicescuelas,P14_3,Numérico,3,Poco
+Que exista el sistema ECOBICI,P14_4,Numérico,4,Nada
+,,Numérico,8,No sabe
+,,Numérico,9,No contestó
+,,,,
+15. ¿Por quém motivo dejaría de usar la bicicleta para hacer este viaje?,P15,Numérico,1,Por estar lesionado o incapacitado
+,,,2,Por una falla mecanica de la bici
+,,,3,Por cambiar de trabajo
+,,,4,Por llevar prisa
+,,,5,Por que el recorrido es muy largo
+,,,6,Por falta de infraestructura
+,,,7,Por el clima
+,,,8,Inseguridad
+,,,9,Que no haya una bici disponible
+,,,10,Por ningún motivo la dejaría de usar
+,,,11,No sabe
+,,,12,No contestó
+,,,,
+"16. ¿Cuándo anda en bici, tiene o no problemas con...?",,,,
+Peatones,P16_1,Numérico,1,Si
+Taxis,P16_2,Numérico,2,No
+Otros ciclistas,P16_3,Numérico,8,No sabe
+Metrobús,P16_4,Numérico,9,No contestó
+Automovilistas,P16_5,Numérico,,
+Colectivos,P16_6,Numérico,,
+Motociclistas,P16_7,Numérico,,
+Transporte de carga,P16_8,Numérico,,
+,,,,
+17. ¿Ha sufrido algún accidente al viajar en bicicleta?,P17,Numérico,1,Si
+,,,2,No
+,,,8,No sabe
+,,,9,No contestó
+17.1 El ultimo accidente que sufrió en bicicleta fue…,P17_1,Numérico,1,Choque
+,,,2,Caída
+,,,3,Atropellamiento
+,,,4,Otro ¿Cuál?
+,,,98,NS
+,,,99,NC
+17.2 La causa del accidente fue…,P17_2,Numérico,1,Un peatón
+,,,2,Otra bicicleta
+,,,3,Un automóvil particular
+,,,4,Una motocicleta
+,,,5,Una unidad de transporte público
+,,,6,Un taxi
+,,,7,El clima
+,,,8,El tráfico
+,,,9,Mala calidad de la vialidad
+,,,98,No sabe
+,,,99,No contestó
+17.3 ¿Quién tuvo la culpa?,P17_3,Numérico,1,Yo
+,,,2,La otra persona
+,,,8,No sabe
+,,,9,No contestó
+,,,,
+18. ¿Alguna vez a usted le han robado la bicicleta?,P18,Numérico,1,Si
+,,,2,No
+,,,8,No sabe
+,,,9,No contestó
+19. ¿El robo ocurrió mientras estaba la bicicleta estacionada o en movimiento?,P19,Numérico,1,Estacionada 
+,,,2,En movimiento
+,,,8,No sabe
+,,,9,No contestó
+,,,,
+Sección sociodemográfica,,,,
+Pregunta,Nemónico,Tipo,Códigos Válidos,Concepto
+(1),(2),(3),(4),(5)
+20. Sexo,P20,Numérico,1,Hombre
+,,Numérico,2,Mujer
+,,,,
+21. ¿Cuál es el último nivel o grado que estudió o cursó en la escuela?,P21_NIVEL,Numérico,1,Ninguno
+,,,2,Preescolar
+,,,3,Primaria
+,,,4,Secundaria
+,,,5,Preparatoria o Bachillerato
+,,,6,Normal
+,,,7,Carrera Técnica
+,,,8,Licenciatura (Profesional)
+,,,9,Maestría
+,,,10,Doctorado
+,,,98,No sabe
+,,,99,No contestó
+Categoría de nivel educativo,NIVEL,Numérico,1,Ninguno
+,,,2,Primaria
+,,,3,Secundaria
+,,,4,Preparatoria o Bachillerato
+,,,5,Licenciatura o Posgrado
+,,,98,No sabe
+,,,99,No contestó
+Último año de estudios,P21_ANO,Numérico,01..30,Años
+,,,98,No sabe
+,,,99,No contestó
+,,,,
+22. Aproximadamente ¿Cuánto gasta al mes en el mantenimiento de su bicicleta?,P22,Numérico,0.950,Pesos al mes
+,,,988888,No sabe
+,,,999999,No contestó
+,,,,
+P23. Aproximadamente ¿Cuál es su ingreso mensual?,P23,Numérico,100.60000,Pesos al mes
+,,,988888,No sabe
+,,,999999,No contestó
+Categoría de ingreso mensual,P23_1,Numérico,1,"Menos de $1,000"
+,,,2,"De $1,001 a $3,000"
+,,,3,"De $3,001 a $6,000"
+,,,4,"De $6,001 a $10,000"
+,,,5,"De $10,001 a $15,000"
+,,,6,"Más de $15,001"
+,,,9,No contestó
+,,,,
+Características de la bicicleta,,,,
+Pregunta,Nemónico,Tipo,Códigos Válidos,Concepto
+(1),(2),(3),(4),(5)
+24. Tipo de bicicleta,P24,Numérico,1,Propia
+,,,2,ECOBICI
+,,,3,Mobike
+,,,4,Vbike
+,,,5,Dezba
+,,,6,Otro
+,,,9,No sabe
+24.1 Bicicleta eléctrica,P24_1,Numérico,1,Si
+,,,2,No
+,,,9,No sabe
+,,,,
+25. Tipo de carga transportada,P25,Numérico,1,Personas
+,,,2,Mercancías en general
+,,,3,Otros
+,,,4,Ninguna
+,,,9,No sabe
+,,,,
+26. Aditamientos para transporte de carga,,,,
+,P26_1,Numérico,1,Si
+,P26_2,Numérico,2,No
+,P26_3,Numérico,9,No sabe
+,P26_4,Numérico,,
+,P26_5,Numérico,,
+,P26_6,Numérico,,
+,P26_7,Numérico,,
+,P26_8,Numérico,,
+,,,,
+27. Lugar de circulación al momento del levantamiento,P27,Numérico,1,Ciclovía
+,,,2,Ciclocarril
+,,,3,Carril de transporte público
+,,,4,Arroyo vehicular
+,,,5,Camellón
+,,,6,Banqueta
+,,,9,No sabe
+,,,,
+,,,,
+Diseño Estadístico,,,,
+Pregunta,Nemónico,Tipo,Códigos Válidos,Concepto
+(1),(2),(3),(4),(5)
+Factor de expansión,FACTOR,Numérico ,2.15.1009.7,Factor de expansión
+,,,,
