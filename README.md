@@ -1,4 +1,4 @@
-# Bicycle Commuting Analysis (Mexico City)
+# Bicycle Commuting Analysis | Mexico City
 
 Analysis of government data from 2015 to 2020 to determine which hour, day,  month, and location is the safest to travel by bicycle in Mexico City.      
 
@@ -6,9 +6,12 @@ Analysis of government data from 2015 to 2020 to determine which hour, day,  mon
 
 ## Insights
 
-All these charts were created with PowerBI and Tableau and edited using ____. 
+All these charts were created with PowerBI and Tableau and edited using Paint. 
 
-These charts and insights are compiled in a presentation I gave (click here for the English version and [here](https://github.com/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/Media/Presentation%20(Spanish).pdf) for the Spanish version).
+These charts and insights are compiled in a PowerPoint presentation:
+
+- English version. 
+- [Spanish version](https://github.com/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/Media/Presentation%20(Spanish).pdf).
 
 
 
@@ -22,7 +25,7 @@ The data used for the analysis was taken from three datasets of Mexico City's go
 | Road accidents                  | https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5       | 11-Dec-2020      |
 | Estudio de Conteo ciclista 2018 | https://datos.cdmx.gob.mx/dataset/estudio-de-conteo-ciclista-2018 | 11-Dec-2020      |
 
- I explored the datasets and transformed them to a version which I could then use to create visualizations (see [Notebook](https://nbviewer.jupyter.org/github/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/main.ipynb)). You can fin the transformed datasets here:
+In the **[notebook main.ipynb](https://nbviewer.jupyter.org/github/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/main.ipynb)**, I explored the datasets and transformed them to a version which I could then use to create visualizations. You can fin the transformed datasets here:
 
 | Dataset                                 | Location                                                     |
 | --------------------------------------- | ------------------------------------------------------------ |
