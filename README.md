@@ -8,7 +8,7 @@ Analysis of government data from 2015 to 2020 to determine which hour, day,  mon
 
 All these charts were created with PowerBI and Tableau and edited using ____. 
 
-These charts and insights are compiled in a presentation I gave (click here for the English  version and [here](https://github.com/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/Media/Presentation%20(Spanish).pdf) for the one in Spanish).
+These charts and insights are compiled in a presentation I gave (click here for the English version and [here](https://github.com/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/Media/Presentation%20(Spanish).pdf) for the Spanish version).
 
 
 
