@@ -1,14 +1,14 @@
 # Bicycle Commuting Analysis (Mexico City)
 
-Analysis of government data from 2015 to 2020 to determine which hour, day,  month, and location is the safest to travel by bicycle.      
+Analysis of government data from 2015 to 2020 to determine which hour, day,  month, and location is the safest to travel by bicycle in Mexico City.      
 
 
 
 ## Insights
 
-All these visualizations were created with PowerBI and edited using ____. The only exception is the map, which was created with Tableau Public. 
+All these charts were created with PowerBI and Tableau and edited using ____. 
 
-These insights are compiled in a PowerPoint presentation (click here for the English  version and here for the one in Spanish).
+These charts and insights are compiled in a presentation I gave (click here for the English  version and [here](https://github.com/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/Media/Presentation%20(Spanish).pdf) for the one in Spanish).
 
 
 
