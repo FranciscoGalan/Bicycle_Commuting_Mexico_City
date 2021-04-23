@@ -44,7 +44,7 @@ Could it be that  there are more cyclists in the evening? It is unlikely, since 
 
 Monday and Tuesday are the safest days to cycle:
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20d%C3%ADa.jpg)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20dia.jpg)
 
 This is true even considering the amount of cyclists per day (at least for Tuesdays):
 
