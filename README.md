@@ -50,13 +50,13 @@ The safest period of the year is the summer:
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20mes.jpg)
 
-Could it be that more people are on vacation or even less stressed?
+Could it be that more people are on vacation or feel less stressed?
 
 ### Location
 
-Accidents occur throughout Mexico City. Many of them concentrate on the main avenues, although it is hard to tell is this is because more people pass through these avenues. 
+Accidents occur throughout Mexico City. However, many of them concentrate on the main avenues, although it is hard to tell is this is because more people pass through them. 
 
-We also see that many accidents occur in intersections:
+We also see that many accidents occur at intersections:
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Mapa_incidentes_viales.jpg)
 
