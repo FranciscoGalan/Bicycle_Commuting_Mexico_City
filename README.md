@@ -28,21 +28,35 @@ However, in the **[Notebook main.ipynb](https://nbviewer.jupyter.org/github/Fran
 
 ### Hour
 
+Most accidents occur when the sun goes down:
+
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20hora.jpg)
+
+Could it be that  there are more cyclists in the evening? It is unlikely, since most cyclists report that they commute to work, so one would except a similar rate of accidents in the morning. Perhaps the accidents are caused by the lack of visibility. 
 
 ### Day
 
+Monday and Tuesday are the safest days to cycle:
+
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20d%C3%ADa.jpg)
 
-
+This is true even considering the amount of cyclists per day (at least for Tuesdays):
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Ciclistas%20por%20d%C3%ADa.jpg)
 
 ### Month
 
+The period of the year is summer:
+
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20mes.jpg)
 
+Could it be that more people are on vacation or even less stressed?
+
 ### Location
+
+Accidents occur throughout Mexico City. Many of them concentrate on the main avenues, although it is hard to tell is this is because more people pass through these avenues. 
+
+We also see that many accidents occur in intersections:
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Mapa_incidentes_viales.jpg)
 
