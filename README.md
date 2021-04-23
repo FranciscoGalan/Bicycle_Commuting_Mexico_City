@@ -2,7 +2,7 @@
 
 Analyzed government data from 2015 to 2020 to determine which hour, day, month, and location is the safest to travel by bicycle in Mexico City.    
 
-
+NOTE: The original analysis was made in Spanish, so you might see a few words in Spanish here and there. 
 
 ## Data
 
