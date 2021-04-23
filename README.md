@@ -28,15 +28,19 @@ However, in the **[Notebook main.ipynb](https://nbviewer.jupyter.org/github/Fran
 
 ### Hour
 
-
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20hora.jpg)
 
 ### Day
 
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20d%C3%ADa.jpg)
 
+
+
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Ciclistas%20por%20d%C3%ADa.jpg)
 
 ### Month
 
-
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20mes.jpg)
 
 ### Location
 
