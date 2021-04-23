@@ -26,6 +26,12 @@ However, in the **[Notebook main.ipynb](https://nbviewer.jupyter.org/github/Fran
 
 ## Insights
 
+### Number of cyclists
+
+Each day there are more cyclists in Mexico City, as measured by the counters in three main avenues:
+
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Contadores.png)
+
 ### Hour
 
 Most accidents occur when the sun goes down:
