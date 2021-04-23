@@ -66,11 +66,11 @@ Explore the whole map [here](https://public.tableau.com/shared/PYW5PG24K?:displa
 
 ### Additional information
 
-All the previous charts were created with PowerBI and Tableau. Minor details were added with Paint. 
+All the previous charts were created with PowerBI and Tableau. 
 
 These insights are also compiled in a PowerPoint presentation:
 
-- English version. 
+- [English version](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Presentation%20(English).pdf). 
 - [Spanish version](https://github.com/FranciscoGalan/Bicycle_Commuting_MexicoCity/blob/main/Media/Presentation%20(Spanish).pdf).
 
 
