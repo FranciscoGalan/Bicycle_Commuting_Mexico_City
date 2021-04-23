@@ -46,7 +46,7 @@ This is true even considering the amount of cyclists per day (at least for Tuesd
 
 ### Month
 
-The period of the year is summer:
+The safest period of the year is the summer:
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20mes.jpg)
 
