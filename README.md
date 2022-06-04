@@ -26,37 +26,23 @@ However, in the **[Notebook main.ipynb](https://nbviewer.jupyter.org/github/Fran
 
 ## Insights
 
-### Number of cyclists
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page2.png)
 
-Each day there are more cyclists in Mexico City, as measured by the counters in three main avenues:
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page3.png)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Contadores.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page4.png)
 
-### Hour
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page5.png)
 
-Most accidents occur when the sun goes down:
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page6.png)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20hora.jpg)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page7.png)
 
-Could it be that  there are more cyclists in the evening? It is unlikely, since most cyclists report that they commute to work, so one would except a similar rate of accidents in the morning. Perhaps the accidents are caused by the lack of visibility. 
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page8.png)
 
-### Day
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page9.png)
 
-Monday and Tuesday are the safest days to cycle:
-
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20dia.jpg)
-
-This is true even considering the amount of cyclists per day (at least for Tuesdays):
-
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Ciclistas%20por%20d%C3%ADa.jpg)
-
-### Month
-
-The safest period of the year is the summer:
-
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Accidentes%20por%20mes.jpg)
-
-Could it be that more people are on vacation or feel less stressed?
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page10.png)
 
 ### Location
 
