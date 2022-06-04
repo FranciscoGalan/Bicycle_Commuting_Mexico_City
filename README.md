@@ -26,23 +26,23 @@ However, in the **[Notebook main.ipynb](https://nbviewer.jupyter.org/github/Fran
 
 ## Insights
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page2.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page2.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page3.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page3.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page4.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page4.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page5.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page5.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page6.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page6.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page7.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page7.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page8.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page8.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page9.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page9.jpg)
 
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page10.png)
+![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page10.jpg)
 
 ### Location
 
