@@ -50,7 +50,7 @@ Accidents occur throughout Mexico City. However, many of them concentrate on the
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page10.jpg)
 
-### Additional information
+## Additional information
 
 All the previous charts were created with PowerBI and Tableau. 
 
