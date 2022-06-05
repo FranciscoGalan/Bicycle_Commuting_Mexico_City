@@ -14,7 +14,11 @@ The original data was taken from three datasets of Mexico City's government [web
 | Road accidents                  | https://datos.cdmx.gob.mx/dataset/incidentes-viales-c5       | 11-Dec-2020      |
 | Estudio de Conteo ciclista 2018 | https://datos.cdmx.gob.mx/dataset/estudio-de-conteo-ciclista-2018 | 11-Dec-2020      |
 
-However, in the **[Notebook main.ipynb](https://nbviewer.jupyter.org/github/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/main.ipynb)**, I explored the datasets and transformed them to a version which I could then use to create visualizations. You can fin the transformed datasets here:
+Then, I [explored the datasets and transformed them](https://nbviewer.jupyter.org/github/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/main.ipynb) to a version which I could then use to create visualizations: [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.jupyter.org/github/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/main.ipynb)
+
+
+
+You can fin the transformed datasets here:
 
 | Dataset                                 | Location                                                     |
 | --------------------------------------- | ------------------------------------------------------------ |
@@ -40,21 +44,11 @@ However, in the **[Notebook main.ipynb](https://nbviewer.jupyter.org/github/Fran
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page8.jpg)
 
+Accidents occur throughout Mexico City. However, many of them concentrate on the main avenues, although it is hard to tell is this is because more people pass through them. Explore the whole map [here](https://public.tableau.com/shared/PYW5PG24K?:display_count=y&:origin=viz_share_link). 
+
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page9.jpg)
 
 ![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/page10.jpg)
-
-### Location
-
-Accidents occur throughout Mexico City. However, many of them concentrate on the main avenues, although it is hard to tell is this is because more people pass through them. 
-
-We also see that many accidents occur at intersections:
-
-![](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/Media/Mapa_incidentes_viales.jpg)
-
-Explore the whole map [here](https://public.tableau.com/shared/PYW5PG24K?:display_count=y&:origin=viz_share_link). 
-
-
 
 ### Additional information
 
